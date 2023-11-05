@@ -1,0 +1,45 @@
+.Card__flex {
+    margin-top: 40px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    border-radius: 10px;
+    width: 250px;
+}
+
+.ItemHeader {
+    letter-spacing: 2px;
+    font-size: 25px;
+    color: #fff;
+    text-shadow: 2px 2px 3px #000;
+}
+
+.ItemImg {
+    width: 200px;
+    height: 260px;
+    border-radius: 10px;
+}
+
+.Info {
+    line-height: 40px;
+    font-size: 25px;
+    color: #000;
+}
+
+.Info_precio {
+    font-size: 25px;
+    color: #fff;
+}
+
+.Option {
+    color: #000;
+    font-size: 22px;
+}
+
+.Option:hover {
+    color: #fff;
+    font-size: 25px;
+}
