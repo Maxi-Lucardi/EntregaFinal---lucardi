@@ -1,0 +1,14 @@
+.pepe {
+    display: flex;
+    font-size: 30px;
+  height: 40px;
+    background-color: #000;
+    border-radius: 2px;
+    width: 40px;
+    cursor: pointer;
+    margin-right: 50px;
+}
+
+.img-carrito {
+  font-size: 30px;
+}
